@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP Github</string>
+    <string name="submit">Gönder</string>
+    <string name="enter_username">Kullanıcı adı...</string>
+    <string name="username_not_valid">Kullanıcı adı geçersiz</string>
+    <string name="general_error">Lütfen sonra tekrar deneyiniz.</string>
+    <string name="open_issues_prefix">Open Issues : %s</string>
+    <string name="stars_prefix">Stars : %s</string>
+</resources>
